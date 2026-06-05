@@ -4,16 +4,16 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-3776AB.svg)
 
-## 📌 Project Overview
+## Project Overview
 This project explores how daily lifestyle choices—specifically sleep, study hours, and physical exercise—impact academic success (CGPA) and student well-being (Stress Levels). Using a dataset of 1,000 student records, this Exploratory Data Analysis (EDA) aims to separate evidence-based success factors from common campus myths.
 
-## 🎯 Key Objectives
+## Key Objectives
 1. **The Sleep-Study Equation:** To determine whether sacrificing sleep for extra study hours (cramming) yields better academic performance.
 2. **Exercise and Mental Load:** To analyze if hitting the gym effectively reduces academic-driven stress.
 
 ---
 
-## 📈 Key Findings & Visualizations
+## Key Findings & Visualizations
 
 ### Theme 1: The Sleep-Study Quadrants (Refuting "Grind Culture")
 
@@ -36,7 +36,7 @@ Surprisingly, the data shows that stress remains remarkably stable (around 4.5 o
 
 ---
 
-## 🛠️ Methodology & Algorithms
+## Methodology & Algorithms
 To achieve these objectives, the following comparative visualization algorithms were utilized:
 
 1. **Quadrant Analysis for Sleep-Study Balance:**
@@ -48,11 +48,11 @@ To achieve these objectives, the following comparative visualization algorithms 
    - Defined a categorization function to label `Gym_Hours_per_Week` into four discrete lifestyle groups (No Gym to Heavy Exercise).
    - Calculated the mean `Stress_Level_1_to_10` for each category and visualized the variance using a bounded bar chart.
 
-## 📂 Repository Structure
+## Repository Structure
 * `DSCP_final_project_41147049S.ipynb`: The complete Jupyter Notebook containing the Python code, visualizations, and detailed EDA.
 * `student_lifestyle_performance_dataset.csv`: The original Kaggle dataset used for this analysis.
 
-## 🚀 How to Run
+## How to Run
 To run this analysis locally:
 1. Clone this repository.
 2. Ensure you have Python installed along with the `pandas` and `matplotlib` libraries.
