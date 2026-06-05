@@ -1,4 +1,4 @@
-# 📊 Student Lifestyle & Academic Performance: Exploratory Data Analysis (EDA)
+# Student Lifestyle & Academic Performance: Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458.svg)
@@ -50,6 +50,9 @@ To achieve these objectives, the following comparative visualization algorithms 
 
 ## Repository Structure
 * `DSCP_final_project_41147049S.ipynb`: The complete Jupyter Notebook containing the Python code, visualizations, and detailed EDA.
+* `DSCP_final_project_41147049S.html`: An exported HTML version of the notebook. This allows anyone to view the complete report, code execution results, and visualizations directly in a web browser without needing to set up a Python environment.
+* `gym_and_stress.png`: The generated bar chart visualization illustrating the findings regarding physical exercise and its actual impact on academic mental load.
+* `sleep_and_study.png`: The generated scatter plot visualization demonstrating the core insights of the sleep-study observation and the four student archetypes.
 * `student_lifestyle_performance_dataset.csv`: The original Kaggle dataset used for this analysis.
 
 ## How to Run
